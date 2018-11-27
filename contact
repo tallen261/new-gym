@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!--BootStrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+     crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thunder Cats Gymnastics</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Thunder Cats Gymnastics</h1>
+        <h2>Stronger Than The Day Before</h2>
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-pills nav-stacked">
+                <li><a href="index.html">Home</a></li>
+                <li>Assessments</li>
+                <li>TeamSnap</li>
+                <li>About</li>
+                <li>Staff</li>
+                <li>Classes</li>
+                <li>Level 2 schedule</li>
+                <li>Level 3 schedule</li>
+                <li>Level 4 schedule</li>
+                <li>Optional Meet schedule</li>
+                <li>Team</li>
+                <li>House System</li>
+                <li>Fundraising</li>
+                <li>Gallery</li>
+                <li class="active"><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-9"> 
+              <img id="team" src="images/map.png"> 
+              <p>209 East Hartwell Lane</p>
+              <p>Philadelphia Pa. 19118</p>
+            </div>
+            <!--Comment Section-->
+            <div class="col-md-12">
+                 <div class="col-md-4">  
+                    <h3>Contact Us</h3>
+                    <form action="/action_page.php">
+                        <div class="form-group">
+                                <label for="name">First Name:</label>
+                                <input type="name" class="form-control" id="name">
+                        </div>
+
+                        <div class="form-group">
+                                <label for="name">Last Name:</label>
+                                <input type="text" class="form-control" id="name">
+                        </div>
+                        
+                        <div class="form-group">
+                                <label for="email">Email address:</label>
+                                <input type="text" class="form-control" id="email">
+                        </div>
+
+                        <div class="form-group">
+                                <label for="phone">Phone Number:</label>
+                                <input type="text" class="form-control" id="phone">
+                        </div>
+
+                        <div class="form-group">
+                            
+                            <textarea name="comment" placeholder="Comment"></textarea>
+                        </div>
+  
+                              
+                        <button type="button" class="btn btn-danger">Submit</button>
+                      </form>
+                </div>
+
+                <div class="col-md-8" id="blank">
+
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+    
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+ crossorigin="anonymous"></script>
+</html>
+
