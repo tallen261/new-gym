@@ -22,19 +22,15 @@
             <div class="col-md-3">
                 <ul class="nav nav-pills nav-stacked">
                 <li class="active"><a href="index.html">Home</a></li>
-                <li>Assessments</li>
-                <li>TeamSnap</li>
-                <li>About</li>
-                <li>Staff</li>
-                <li>Classes</li>
-                <li>Level 2 schedule</li>
-                <li>Level 3 schedule</li>
-                <li>Level 4 schedule</li>
-                <li>Optional Meet schedule</li>
-                <li>Team</li>
-                <li>House System</li>
-                <li>Fundraising</li>
-                <li>Gallery</li>
+                <li><a href="assessments.html">Assessments</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="staff.html">Staff</a></li>
+                <li><a href="classes.html">Classes</a></li>
+                <li><a href="meet_schedule.html">Meet Schedule</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="house.html">House System</a></li>
+                <li><a href="fundraising.html">Fundraising</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
