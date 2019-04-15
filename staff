@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!--BootStrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+     crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thunder Cats Gymnastics</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Thunder Cats Gymnastics</h1>
+        <h2>Stronger Than The Day Before</h2>
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-pills nav-stacked">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="assessments.html">Assessments</a></li>
+                <li><a href="about.html">About</a></li>
+                <li class="active"><a href="staff.html">Staff</a></li>
+                <li><a href="classes.html">Classes</a></li>
+                <li><a href="meet_schedule.html">Meet Schedule</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="house.html">House System</a></li>
+                <li><a href="fundraising.html">Fundraising</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-9"> 
+                <div class="col-md-12">
+                    <div class="col-md-3">
+                        <img src="https://placeimg.com/200/250/people">
+                    </div>
+                    <div class="col-md-9">
+                        <h3>Andre Agard</h3>
+                        <h4>Head Coach/Captain of Lion House</h4>
+                        <p>
+                        André is a former men’s horizontal bar and vault champion for Central High School. Although his gymnastics career was brief, 
+                        he learned quite a bit about the sport from his head coach and mentor, Fred Brannon. After graduating from Central, André began his coaching career. 
+                        He has coached for eleven years at the Water Tower Recreation and is responsible for forming Water Tower’s first United States of America Gymnastics (USAG) competitive gymnastics team, The Thunder Cats. 
+                        Andre is also a current alumnus of Temple University (BS in Kinesiology, 2008), and future alumnus of Eastern University (M. Ed. In Health and Physical Education).    
+                        </p>
+                    </div>
+                
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Fred Brannon</h3>
+                        <p>
+                        Fred Brannon was a long-time Water Tower coach before Andre took over the program, taking the first USAIGC Water Tower team to Nationals, as well as serving as the head coach Central High School’s gymnastics team. 
+                        Fred has also coached many elite gymnasts over the last 30 years.
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Jessica Henson</h3>
+                        <h4>Captain of Puma House</h4>
+                        <p>
+                        Jess started as a gymnast at Water Tower almost 25 years ago. She also competed for Masterman's high school gymnastics team. Jess was one of Mr. Brannon's first nationally competitive gymnasts at Water Tower and 
+                        later went on to compete for West Chester University. Jess has over ten years of coaching experience. She is currently the Level 4 head coach but coaches pre-school classes through optional level gymnasts. 
+                        She has her M.Ed from the University of North Carolina and is also a school counselor.
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Danielle Hanratty</h3>
+                        <h4>Captain of Cheetah House</h4>
+                        <p>
+                        Danielle Hanratty was a competitive gymnast for 12 years before she graduated from high school. She started coaching at a young age and has continued to coach for the last 7 years. 
+                        Danielle is currently in her last semester at Community College of Philadelphia where she studies Business Administration. After this semester, she plans on transferring to a four year college to get her Bachelor's degree in Business Administration.
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Tytianna Broadwater</h3>
+                        <p>
+                        Tytianna was a gymnast with Water Tower for nine years.  She also competed as a USA Gymnast.  In 2014, as a Level 7 Tytianna placed second on the vault at States.  
+                        She is currently in her sixth year as a gymnastics coach. Tytianna is a senior at Moore College of Art and Design majoring in Fashion Design.
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Amber Michael</h3>
+                        <p>
+                        Dance in Paradise Amber Redz
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>Douglass "Rev" Johnson</h3>
+                        <p>
+                        New Guy
+                        </p>
+                        </div>
+                    
+                </div>
+
+                <div class="col-md-12">
+                        <div class="col-md-3">
+                            <img src="https://placeimg.com/200/250/people">
+                        </div>
+                        <div class="col-md-9">
+                        <h3>TJ Allen</h3>
+                        <p>
+                        Tyron “TJ” was part of Fred Brannon’s Central High School championship gymnastics team along with Andre. 
+                        After graduation, TJ went on to become a Staff Sergeant in the United States Air Force. When he returned home 
+                        he became an assistant instructor for both H.A.L.O Martial Arts and Sector Martial Arts Clubs. TJ is an alumnus of the Art Institute of Philadelphia (B.S. in Graphic Design)
+                        </p>
+                        </div>
+                    
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+    
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+ crossorigin="anonymous"></script>
+</html>
+
