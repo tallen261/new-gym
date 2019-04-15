@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!--BootStrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+     crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thunder Cats Gymnastics</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Thunder Cats Gymnastics</h1>
+        <h2>Stronger Than The Day Before</h2>
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-pills nav-stacked">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="assessments.html">Assessments</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="staff.html">Staff</a></li>
+                    <li class="active"><a href="classes.html">Classes</a></li>
+                    <li><a href="meet_schedule.html">Meet Schedule</a></li>
+                    <li><a href="team.html">Team</a></li>
+                    <li><a href="house.html">House System</a></li>
+                    <li><a href="fundraising.html">Fundraising</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-9"> 
+            <div class="col-md-12">
+                <h3>Pre-K Gymnastics & Tumbling (Ages 3-4)</h3>
+                <h4>    
+                    <ul>
+                        <li>Must Be Potty Trained</li>
+                        <li>Non-Competitive</li>
+                    </ul>
+                </h4>
+                <p>
+                Geared towards preschoolers.  Students will learn introductory tumbling skills during the first half of the year and introduced 
+                to gymnastics apparatus in the second half of the year.
+                </p>
+                
+                <h3>Beginner Gymnastics Tumbling (Ages 5 and Up)</h3>
+                <h4>    
+                    <ul>
+                        <li>Non-Competitive and suitable for all ages</li>
+                        <li>Attendance Requirements- One day per week</li>
+                    </ul>
+                </h4>
+                <p>
+                This class is for beginner gymnasts who have no gymnastics or tumbling experience. 
+                Students will learn introductory tumbling skills during the first half of the year and be introduced to gymnastics apparatus in the second half of the year.
+                </p>
+
+                <h3>Beginner Competitive Tumbling Team</h3>
+                <h4>    
+                    <ul>
+                        <li>Must be placed by an instructor</li>
+                    </ul>
+                </h4>
+                <p>
+                For gymnasts who are Beginner Competitors in Philadelphia City Tumbling meets. Students will build upon tumbling skills and also be 
+                introduced to gymnastics apparatus later in the year. <strong>Meet two days per week</strong>.
+                </p>
+
+                <h3>Intermediate & Up Tumbling Team</h3>
+                <h4>    
+                    <ul>
+                        <li>Must be placed by an instructor</li>
+                    </ul>
+                </h4>
+                <p>
+                Compete in City Tumbling Meets. For gymnasts who are ready to compete in citywide competitions as intermediate, advanced, and open gymnasts; 
+                students will also learn USAG level 2 & 3 skills on all four female gymnastics apparatus. <strong>Meet two days per week</strong>.
+
+                </p>
+
+                <h3>Boys Tumbling Classes</h3>
+                <h4>    
+                    <ul>
+                        <li>Must be placed by an instructor</li>
+                    </ul>
+                </h4>
+                <p>
+                An introduction to tumbling skills and also the other male apparatuses. <strong>Meet one day per week</strong>   
+                </p>
+
+                <h3>Intro to Gymnastics Team USAG (Level 2)/Thunder Cubs (USAG Level 3)</h3>
+                <h4>    
+                    <ul>
+                        <li>Must be placed by an instructor</li>
+                    </ul>
+                </h4>
+                <p>
+                Compete in City Tumbling Meets and possibility of USAG Meets. Gymnasts from Intermediate and up classes will use the Intro to Prep Team class as an 
+                opportunity to transition to Thunder Cubs once they reach USAG Level 3. They will receive more advanced training on the four female apparatus, 
+                as well as strength building exercises to advance on the apparatus. <strong>Meet 3 days per week</strong>.
+                </p>
+
+                <h3>Thunder Cats Gymnastics Team (USAG Levels 4 and Up)</h3>
+                <h4>    
+                    <ul>
+                        <li>Must be placed by an instructor</li>
+                    </ul>
+                </h4>
+                <p>
+                Gymnasts will Compete in City Tumbling Meets up until USAG Level 7. <strong>Meet 4 days per week</strong>.
+                </p>
+            </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+ crossorigin="anonymous"></script>
+</html>
+
