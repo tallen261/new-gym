@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!--BootStrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+     crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thunder Cats Gymnastics</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Thunder Cats Gymnastics</h1>
+        <h2>Stronger Than The Day Before</h2>
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-pills nav-stacked">
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="assessments.html">Assessments</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="staff.html">Staff</a></li>
+                <li><a href="classes.html">Classes</a></li>
+                <li><a href="meet_schedule.html">Meet Schedule</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="house.html">House System</a></li>
+                <li><a href="fundraising.html">Fundraising</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-9"> 
+                <div class="col-md-12">
+                    <h3><strong>Assessment Fee Payments</strong> <i>via PayPay</i></h3>
+                    <h4>PayPal can <strong>ONLY</strong> be used to pay Meet Fees and Assessment Fees</h4>
+                    <h4><strong>TUITION PAYMENTS CANNOT BE PAID USINF THIS METHOD</strong></h4>
+                    <h5>Click the Paypal link below to make an assessment fee payment:</h5>
+
+                    <p>
+                       One Time Payment of <strong>$500</strong><br/>
+                       (PAYMENT DUE IN AUGUST)
+                    </p>
+
+                    <p>
+                        Two Payments of <strong>$250</strong><br/>
+                        (PAYMENTS DUE IN AUGUST & JANUARY)
+                    </p>
+
+                    <p>
+                         Four Payments of <strong>$125</strong><br/>
+                        (PAYMENTS DUE IN AUGUST-NOVEMBER-FEBRUARY-MAY)
+                    </p>
+
+                    <p>
+                        Nine Payments of <strong>$56</strong><br/>
+                        (PAYMENTS DUE IN AUGUST-SEPTEMBER-OCTOBER-NOVEMBER-DECEMBER-JANUARY-FEBRUARY-MARCH-APRIL)
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+ crossorigin="anonymous"></script>
+</html>
+
