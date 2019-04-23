@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!--BootStrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+     crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thunder Cats Gymnastics</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Thunder Cats Gymnastics</h1>
+        <h2>Stronger Than The Day Before</h2>
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-pills nav-stacked">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="assessments.html">Assessments</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="staff.html">Staff</a></li>
+                    <li><a href="classes.html">Classes</a></li>
+                    <li><a href="meet_schedule.html">Meet Schedule</a></li>
+                    <li><a href="team.html">Team</a></li>
+                    <li><a href="house.html">House System</a></li>
+                    <li><a href="fundraising.html">Fundraising</a></li>
+                    <li class="active"><a href="gallery.html">Gallery</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-9"> 
+            <div>
+                <img id= "team" src="images/team2018_small.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="intro">
+        <p><strong>Thunder Cats Gymnastics</strong> is located in the lovely Chesnut Hill section of Philadelphia. 
+        Our gymnastics program has been housed in the Water Tower Recreation Center building since its inception and has been around for over 30 years.</p>
+
+        <p>We provide a unique, full-service, co-educational gymnastics program. Our atheletes range from ages 3 to 18 years old and compete in 
+        USAG sanctioned meets from levels 2 through 10.</p>
+        </div>
+    </div>
+</body>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+ crossorigin="anonymous"></script>
+</html>
+
